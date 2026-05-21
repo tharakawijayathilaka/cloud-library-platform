@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/tharakawijayathilaka/cloud-library-api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/tharakawijayathilaka/cloud-library-config-server.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/tharakawijayathilaka/cloud-library-service-registry.git
